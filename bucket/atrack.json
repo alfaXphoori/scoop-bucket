@@ -1,19 +1,19 @@
 {
-    "version": "0.14.4",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alfaXphoori/AgentTrack/releases/download/v0.14.4/AgentTrack_Windows_x86_64.zip",
+            "url": "https://github.com/alfaXphoori/AgentTrack/releases/download/v0.1.0/AgentTrack_Windows_x86_64.zip",
             "bin": [
                 "atrack.exe"
             ],
-            "hash": "6a7dcb731d41d649d500d3b581ea8671dbd31b1dd275d33c4e50caa88affbe79"
+            "hash": "89711694cc28b22c9e582d9f4222da2560c509b3f470f7bee0bedbb24a38c873"
         },
         "arm64": {
-            "url": "https://github.com/alfaXphoori/AgentTrack/releases/download/v0.14.4/AgentTrack_Windows_arm64.zip",
+            "url": "https://github.com/alfaXphoori/AgentTrack/releases/download/v0.1.0/AgentTrack_Windows_arm64.zip",
             "bin": [
                 "atrack.exe"
             ],
-            "hash": "bd1f65879f94ae519a9422a589c76290a7fec52567a86be1f6213147ee3a3750"
+            "hash": "2f44302ccdc6a3a1da50c0a8aba93333f201eb0b6affe15257009797f192197e"
         }
     },
     "homepage": "https://github.com/alfaXphoori/AgentTrack",
