@@ -6,14 +6,14 @@
             "bin": [
                 "atrack.exe"
             ],
-            "hash": "04e0e20c5ac711b4fd26223162be20bbb526967168f85460f3ed57147abbde88"
+            "hash": "e7623a9e007765717520f9eeccb54596706c041fbbb4f394e3010d421f298bb7"
         },
         "arm64": {
             "url": "https://github.com/alfaXphoori/AgentTrack/releases/download/v0.15.1/AgentTrack_Windows_arm64.zip",
             "bin": [
                 "atrack.exe"
             ],
-            "hash": "38a7a9cbd2f61eecc1e2584f3639763baf6c7c4e75afe0db10b3dbcf26d00a42"
+            "hash": "a42f27438af5ab20fd6e6a2b692d9c5296547727e2bb478aeee1d5965130d566"
         }
     },
     "homepage": "https://github.com/alfaXphoori/AgentTrack",
